@@ -1,0 +1,162 @@
+Country_Number,Country_Name,RS
+4,"Afghanistan, Islamic Republic of",3.296
+12,"Algeria, People's Democratic Republic of",1.983
+24,"Angola, Republic of",3.544
+31,"Azerbaijan, Republic of",1.266
+32,"Argentina, Argentine Republic",1.039
+36,"Australia, Commonwealth of",1.544
+40,"Austria, Republic of",0.629
+44,"Bahamas, Commonwealth of the",1.057
+48,"Bahrain, Kingdom of",2.007
+50,"Bangladesh, People's Republic of",1.143
+51,"Armenia, Republic of",0.333
+52,Barbados,0.225
+56,"Belgium, Kingdom of",0.628
+64,"Bhutan, Kingdom of",1.2
+68,"Bolivia, Republic of",1.571
+72,"Botswana, Republic of",1.301
+76,"Brazil, Federative Republic of",0.876
+84,Belize,2.254
+90,Solomon Islands,2.666
+96,Brunei Darussalam,1.308
+104,"Myanmar, Union of",0.806
+108,"Burundi, Republic of",3.159
+112,"Belarus, Republic of",0.04
+116,"Cambodia, Kingdom of",1.622
+120,"Cameroon, Republic of",2.715
+124,Canada,1.071
+132,"Cape Verde, Republic of",1.262
+140,Central African Republic,0.479
+144,"Sri Lanka, Democratic Socialist Republic of",0.628
+148,"Chad, Republic of",3.321
+152,"Chile, Republic of",1.036
+156,"China, People's Republic of",0.548
+170,"Colombia, Republic of",0.991
+174,"Comoros, Union of the",2.395
+178,"Congo, Republic of the",2.555
+180,"Congo, Democratic Republic of the",3.326
+188,"Costa Rica, Republic of",1.148
+192,"Cuba, Republic of",0.176
+196,"Cyprus, Republic of",0.851
+203,Czech Republic,0.123
+204,"Benin, Republic of",2.789
+208,"Denmark, Kingdom of",0.476
+214,Dominican Republic,1.175
+218,"Ecuador, Republic of",1.539
+222,"El Salvador, Republic of",0.452
+226,"Equatorial Guinea, Republic of",4.276
+231,"Ethiopia, Federal Democratic Republic of",2.805
+232,"Eritrea, State of",1.059
+242,"Fiji, Republic of the Fiji Islands",0.204
+246,"Finland, Republic of",0.425
+250,"France, French Republic",0.494
+262,"Djibouti, Republic of",1.684
+266,"Gabon, Gabonese Republic",3.633
+270,"Gambia, Republic of the",3.024
+275,"Palestinian Territory, Occupied",2.209
+276,"Germany, Federal Republic of",0.236
+288,"Ghana, Republic of",2.336
+296,"Kiribati, Republic of",1.497
+308,Grenada,0.625
+320,"Guatemala, Republic of",2.103
+324,"Guinea, Republic of",2.296
+328,"Guyana, Co-operative Republic of",0.475
+332,"Haiti, Republic of",1.446
+340,"Honduras, Republic of",1.827
+352,"Iceland, Republic of",0.609
+356,"India, Republic of",1.193
+360,"Indonesia, Republic of",1.324
+364,"Iran, Islamic Republic of",1.243
+368,"Iraq, Republic of",3.58
+372,Ireland,0.426
+376,"Israel, State of",1.651
+380,"Italy, Italian Republic",0.418
+384,"Cote d'Ivoire, Republic of",2.465
+388,Jamaica,0.565
+398,"Kazakhstan, Republic of",1.561
+400,"Jordan, Hashemite Kingdom of",4.876
+404,"Kenya, Republic of",2.605
+408,"Korea, Democratic People's Republic of",0.511
+410,"Korea, Republic of",0.509
+414,"Kuwait, State of",4.968
+417,Kyrgyz Republic,1.888
+418,Lao People's Democratic Republic,1.516
+422,"Lebanon, Lebanese Republic",5.536
+426,"Lesotho, Kingdom of",0.626
+430,"Liberia, Republic of",2.783
+434,Libyan Arab Jamahiriya,0.7
+442,"Luxembourg, Grand Duchy of",2.193
+450,"Madagascar, Republic of",2.721
+454,"Malawi, Republic of",2.825
+458,Malaysia,1.412
+462,"Maldives, Republic of",4.364
+466,"Mali, Republic of",2.947
+470,"Malta, Republic of",0.911
+478,"Mauritania, Islamic Republic of",2.934
+480,"Mauritius, Republic of",0.184
+484,"Mexico, United Mexican States",1.317
+496,Mongolia,1.95
+499,"Montenegro, Republic of",0.086
+504,"Morocco, Kingdom of",1.386
+508,"Mozambique, Republic of",2.781
+512,"Oman, Sultanate of",6.773
+516,"Namibia, Republic of",1.77
+524,"Nepal, State of",0.001
+528,"Netherlands, Kingdom of the",0.304
+548,"Vanuatu, Republic of",2.757
+554,New Zealand,1.089
+558,"Nicaragua, Republic of",1.326
+562,"Niger, Republic of",3.893
+566,"Nigeria, Federal Republic of",2.67
+578,"Norway, Kingdom of",1.246
+583,"Micronesia, Federated States of",1.13
+586,"Pakistan, Islamic Republic of",2.114
+591,"Panama, Republic of",1.713
+598,"Papua New Guinea, Independent State of",2.07
+600,"Paraguay, Republic of",1.363
+604,"Peru, Republic of",0.97
+608,"Philippines, Republic of the",1.663
+624,"Guinea-Bissau, Republic of",2.637
+626,"Timor-Leste, Democratic Republic of",1.797
+634,"Qatar, State of",6.473
+643,Russian Federation,0.209
+646,"Rwanda, Republic of",2.488
+662,Saint Lucia,0.571
+670,Saint Vincent and the Grenadines,0.162
+678,"Sao Tome and Principe, Democratic Republic of",2.009
+682,"Saudi Arabia, Kingdom of",2.911
+686,"Senegal, Republic of",2.793
+694,"Sierra Leone, Republic of",2.229
+702,"Singapore, Republic of",1.721
+703,Slovakia (Slovak Republic),0.116
+704,"Vietnam, Socialist Republic of",1.043
+705,"Slovenia, Republic of",0.271
+706,"Somalia, Somali Republic",2.718
+710,"South Africa, Republic of",1.565
+716,"Zimbabwe, Republic of",1.686
+728,South Sudan,2.391
+740,"Suriname, Republic of",1.103
+748,"Swaziland, Kingdom of",0.723
+752,"Sweden, Kingdom of",0.783
+756,"Switzerland, Swiss Confederation",1.213
+762,"Tajikistan, Republic of",2.322
+764,"Thailand, Kingdom of",0.447
+768,"Togo, Togolese Republic",2.627
+780,"Trinidad and Tobago, Republic of",0.625
+784,United Arab Emirates,1.602
+788,"Tunisia, Tunisian Republic",0.999
+792,"Turkey, Republic of",1.646
+795,Turkmenistan,1.796
+800,"Uganda, Republic of",3.289
+807,"Macedonia, The Former Yugoslav Republic of",0.083
+818,"Egypt, Arab Republic of",2.213
+826,United Kingdom of Great Britain & Northern Ireland,0.743
+834,"Tanzania, United Republic of",2.984
+840,United States of America,0.754
+854,Burkina Faso,2.978
+858,"Uruguay, Eastern Republic of",0.312
+860,"Uzbekistan, Republic of",1.625
+862,"Venezuela, Bolivarian Republic of",1.123
+882,"Samoa, Independent State of",0.798
+887,Yemen,2.697
+894,"Zambia, Republic of",3.09
